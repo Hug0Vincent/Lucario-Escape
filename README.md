@@ -4,7 +4,7 @@
 
 Jogo realizado para a aula de computaçao grafica
 
-## Download
+## Download (LINUX)
 
 voce pode download o jogo com este link : ```https://drive.google.com/open?id=1J08qwJw8AHoMnBHzVjFclDd7bZpFtDhV```
 
